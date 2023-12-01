@@ -1,4 +1,6 @@
 ## Hello, I'm Guilherme. A Back-End Developer
+
+ Contact:
  
 - 📫 Email: guilhermemanuelmf@gmail.com
 
@@ -8,7 +10,7 @@
 In my Github I create projects using: <br>
 `Java; Spring Boot; Spring Cloud; Microservices and deploying with docker `
 
-### 🌐 Meu Linkedin
+### 🌐 My Linkedin
 <div>
   <a href="https://www.linkedin.com/in/-guilherme-martins-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
