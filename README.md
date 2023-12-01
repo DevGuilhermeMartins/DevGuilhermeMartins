@@ -5,7 +5,7 @@
 ### ⚙️ Technologies
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,docker)](https://skillicons.dev)
 
-In my Github i create projects using: <br>
+In my Github I create projects using: <br>
 `Java; Spring Boot; Spring Cloud; Microservices and deploying with docker `
 
 ### 🌐 Meu Linkedin
