@@ -2,11 +2,11 @@
  
 - 📫 Email: guilhermemanuelmf@gmail.com
 
-### ⚙️ Tecnologias
+### ⚙️ Technologies
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,docker)](https://skillicons.dev)
 
-No meu Github tenho projetos focados em backend utilizando: <br>
-`Java; Spring Boot; Spring Cloud; Microsservicos; Lógica de Programação; Design Patterns `
+In my Github i create projects using: <br>
+`Java; Spring Boot; Spring Cloud; Microservices and deploying with docker `
 
 ### 🌐 Meu Linkedin
 <div>
